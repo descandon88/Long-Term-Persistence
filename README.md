@@ -15,3 +15,33 @@ empoderamiento de toda una población? ¿Puede una actitud ser entregado por gen
 generaciones? ¿Qué tan relevante es la duración e intensidad de su condición de ciudad
 independiente? Son planteamientos que los autores se cuestionan y tratan de abordar durante
 todo el trabajo.
+# La Italia Medieval
+
+En aquella época, las regiones del norte de Italia eran parte del Sacro Imperio Romano, que
+estaba en proceso de desintegrarse. Entre los años 1061 y 1091, los Normandos invadieron la
+parte de Italia del Sur y formaron un estado fuerte que garantizó el orden y estabilidad. Por el
+contrario, en el Norte, la ausencia de la autoridad imperial llevó a la aparición de un número de
+ciudades de estado independientes.
+
+El primer núcleo de la aparición de este tipo de ciudades fue el establecimiento del “pacto
+jurado” (patto giurato) en donde los habitantes de los pueblos acordaron mutua ayuda y
+colaboración para la solución de problemas de común interés. En algunos casos, estos pactos
+fueron exigidos con la amenaza de excluir de la cadena de comercio.
+En primera instancia, el interés prioritario en común era la de defenderse del emperador que
+sometía su poder sobre la ciudad. Este conflicto culminó en 1176, cuando una liga de ciudades
+libres (comunas) en el norte de Italia, la Liga Lombard, derrotó al emperador Federico I en la
+batalla de Legnano. A diferencia del reino Normando, que habitaba en el Sur de Italia, las
+comunas hicieron sus propias reglas, leyes y decisiones formales en el nombre de la gente,
+debido a que el poder político era para los intereses del pueblo, y no para alguna autoridad
+religiosa o derecho divino.
+
+Si bien las comunas medievales no llegaron a madurar a una democracia moderna, si lograron
+introducir aspectos similares a un sistema del Imperio de la Ley. Por ejemplo, las acciones de los
+funcionarios del gobierno estaban sujetas al control de nuevas instituciones, incluidos los
+tribunales de justicia a los que los ciudadanos podían apelar (Galizia 1951).
+Con el pasar de los años, en el siglo 15, las comunas italianas comenzaron a darle poder de por
+vida a una sola persona, llamado el Señor o Signore, de ahí el nombre de Signoria. En
+determinados casos, el Signoria retenía las instituciones fundamentales de la comuna, incluso el
+principio de que el poder se origina en el pueblo y debía ejercerse en nombre del pueblo. En este
+sentido, la Signoria fue una continuación y transformación de la comunidad como sostienen
+Prezzolini (1948) y Chittolini (1999).

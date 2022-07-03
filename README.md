@@ -70,9 +70,11 @@ ciudades libres para la recolección de la información:1) todas las ciudades qu
 independientes en 1176, y 2) ciudades que fueron catalogadas como independientes al
 menos una vez según los documentos históricos, ya sea en 1176 o en 1300. Estas entran
 como variables dummies dentro de la regresión.
+
 ● Organizaciones sin fines de lucro (Capital Cívico): los autores siguen el trabajo de
 Putnam et al. (1993), que toma la presencia de organizaciones sin fines de lucro como el
 principal indicador de capital cívico.
+
 ● Organizaciones de donación de órganos (Capital Cívico): Consideran que un tipo de
 organización sin fines de lucro, es la de donantes de órganos. Donación de sangre u
 órganos. La decisión de donar puede ser visto como medición directa de individuos
@@ -82,6 +84,7 @@ datos de donación de sangre a nivel provincial.
 Por lo tanto, asumen que pueden ser una variable significativa en la medición de capital
 social. Encuentran que una organización de donantes de órganos está en el 4,4% de los
 municipios del norte de Italia y el 4% en el sur.
+
 ● El porcentaje de trampas en los exámenes de octavo grado (Capital Cívico): Desde
 2008, los estudiantes italianos de octavo grado han realizado una prueba nacional
 estandarizada en lectura y matemáticas realizada por el Istituto Nazionale per la
@@ -92,10 +95,12 @@ estimada de que una puntuación observada se deba a una trampa. Los autores prom
 la medida INVALSI 2008-2009 a nivel de ciudad y la dividen por su desviación estándar
 para obtener una medida estandarizada de trampa. En promedio, esta medida en las
 ciudades del norte es 2.9
+
 ● Variables históricas y geográficas: 1) el tamaño de las ciudades, 2) la persistencia del
 poder imperial a través de las ciudades que estuvieron ubicadas en cruce de caminos de la
 antigua Roma o hasta cuándo tuvieron la presencia de un marqués, y 3) otras variables de
 control geográficas como: altura media, población, ingreso per cápita y riqueza per
 cápita.
+
 ● Autoeficacia: pruebas de preguntas de actitudes que estaba incluida en el examen
 nacional INVALSI.

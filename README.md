@@ -15,6 +15,7 @@ empoderamiento de toda una población? ¿Puede una actitud ser entregado por gen
 generaciones? ¿Qué tan relevante es la duración e intensidad de su condición de ciudad
 independiente? Son planteamientos que los autores se cuestionan y tratan de abordar durante
 todo el trabajo.
+
 # La Italia Medieval
 
 En aquella época, las regiones del norte de Italia eran parte del Sacro Imperio Romano, que
@@ -45,3 +46,56 @@ determinados casos, el Signoria retenía las instituciones fundamentales de la c
 principio de que el poder se origina en el pueblo y debía ejercerse en nombre del pueblo. En este
 sentido, la Signoria fue una continuación y transformación de la comunidad como sostienen
 Prezzolini (1948) y Chittolini (1999).
+
+# Capital Cívico y la Experiencia de ciudades de estado libres
+El término Capital cívico (social) tiene múltiples definiciones, para este caso, los autores siguen
+la línea de los trabajos de Putnam et al. (1993) y Fukuyama (1995), donde lo definen como
+“aquellas creencias y valores persistentes y compartidos que ayudan a un grupo a superar el
+problema del free rider, en la búsqueda de actividades socialmente valiosas” (Guiso et al. 2011).
+Acorde a la conjetura de Putnam, las diferencias regionales en capital cívico se deben a la
+experiencia de ciudades de estados libres, por lo tanto, el capital cívico de ahora debería de ser
+mayor en ciudades que fueron libres en la edad media. Incluso, estas diferencias deberían de ser
+más notorias acorde a mayor tiempo de independencia que tuvo la ciudad.
+
+# Mediciones para el control de regresiones y recolección de la data
+
+Para la obtención de resultados, los autores logran recopilar las siguiente información e incluirlos
+en sus cálculos de regresiones. La muestra contiene 5368 ciudades localizadas en el norte. Para
+una pequeña parte del análisis, se compara entre el Norte y el Sur. La muestra para ciudades del
+Sureñas contiene 2184 observaciones.
+
+Identificaciones de las ciudades de estado-libre (comunas): debido a que el estado de
+las ciudades independientes cambia a lo largo del tiempo, se definen dos tipos de
+ciudades libres para la recolección de la información:1) todas las ciudades que eran
+independientes en 1176, y 2) ciudades que fueron catalogadas como independientes al
+menos una vez según los documentos históricos, ya sea en 1176 o en 1300. Estas entran
+como variables dummies dentro de la regresión.
+● Organizaciones sin fines de lucro (Capital Cívico): los autores siguen el trabajo de
+Putnam et al. (1993), que toma la presencia de organizaciones sin fines de lucro como el
+principal indicador de capital cívico.
+● Organizaciones de donación de órganos (Capital Cívico): Consideran que un tipo de
+organización sin fines de lucro, es la de donantes de órganos. Donación de sangre u
+órganos. La decisión de donar puede ser visto como medición directa de individuos
+buscan el bien común. La donación de órganos y/o sangre proporciona un seguro a otros,
+sin compensación directa para la persona que los proporciona. Guiso y col. (2004) utiliza
+datos de donación de sangre a nivel provincial.
+Por lo tanto, asumen que pueden ser una variable significativa en la medición de capital
+social. Encuentran que una organización de donantes de órganos está en el 4,4% de los
+municipios del norte de Italia y el 4% en el sur.
+● El porcentaje de trampas en los exámenes de octavo grado (Capital Cívico): Desde
+2008, los estudiantes italianos de octavo grado han realizado una prueba nacional
+estandarizada en lectura y matemáticas realizada por el Istituto Nazionale per la
+Valutazione del Sistema educativo di Istruzione e formazione (INVALSI). La prueba se
+administra a más de medio millón de estudiantes en 6.000 escuelas en 3.400 ciudades.
+Los datos publicados por INVALSI incluyen una medida de trampa: la probabilidad
+estimada de que una puntuación observada se deba a una trampa. Los autores promedian
+la medida INVALSI 2008-2009 a nivel de ciudad y la dividen por su desviación estándar
+para obtener una medida estandarizada de trampa. En promedio, esta medida en las
+ciudades del norte es 2.9
+● Variables históricas y geográficas: 1) el tamaño de las ciudades, 2) la persistencia del
+poder imperial a través de las ciudades que estuvieron ubicadas en cruce de caminos de la
+antigua Roma o hasta cuándo tuvieron la presencia de un marqués, y 3) otras variables de
+control geográficas como: altura media, población, ingreso per cápita y riqueza per
+cápita.
+● Autoeficacia: pruebas de preguntas de actitudes que estaba incluida en el examen
+nacional INVALSI.

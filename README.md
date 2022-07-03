@@ -1,4 +1,4 @@
-# Long-Term-Persistence
+# Long Term Persistence
 Reseña del artículo de Gizzo, Sapienza y Zingales (2016) sobre las instituciones no formales y su implicancia para el desarrollo de las ciudades.
 # Introducción
 El trabajo busca demostrar las implicancias actuales en la cultura en determinadas ciudades de Italia, donde a finales del primer milenio; estas tuvieron en algún momento de la época, la presencia de ciudades independientes o también llamadas ciudades de estado libre. La idea es ir más allá de lo que puede entregar una institución formal a una sociedad y observar rasgos que se mantienen durante años para el beneficio del desarrollo de una ciudad.
